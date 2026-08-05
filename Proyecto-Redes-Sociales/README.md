@@ -31,10 +31,13 @@ Análisis descriptivo.
 ---
 
 ## Estado de avance
+## Estado de avance
 
-- Definición del problema.
-- Recolección de datos.
-- Limpieza de datos.
-- Análisis de datos.
-- ⬜ Visualización de resultados.
+- ✅ Definición del problema
+- ⬜ Obtención de datos
+- ⬜ Exploración de los datos
+- ⬜ Preparación de los datos
+- ⬜ Análisis de los datos
+- ⬜ Presentación de resultados
+resultados.
 - ⬜ Conclusiones.

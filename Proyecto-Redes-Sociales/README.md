@@ -72,3 +72,23 @@ Estos resultados describen únicamente los datos simulados utilizados para pract
 ## Nota
 
 Este proyecto tiene fines educativos. Los datos son simulados y no deben interpretarse como resultados de una investigación real.
+
+## Conclusiones
+
+A partir del análisis descriptivo de los 100 registros simulados, se identificaron los siguientes patrones dentro del conjunto de datos:
+
+1. **Plataforma principal:** TikTok fue la plataforma más frecuente, con 42 registros, seguida de Instagram, con 32.
+
+2. **Tiempo diario de uso:** la categoría más frecuente fue más de 8 horas al día, con 30 registros. Le siguieron las categorías de 5 a 6 horas, con 25, y de 7 a 8 horas, con 24.
+
+3. **Propósito principal:** el entretenimiento fue el propósito más frecuente, con 48 registros, seguido de la comunicación, con 27.
+
+4. **Momento de mayor uso:** la tarde y la noche empataron con 29 registros cada una. También se registraron respuestas para el mediodía y el almuerzo, y para el uso durante todo el día.
+
+5. **Dispositivo principal:** el celular fue el dispositivo predominante, con 88 registros, mientras que la tableta representó 9 y el computador 3.
+
+6. **Influencia percibida en la productividad académica:** la respuesta más frecuente fue «Negativamente», con 44 registros. Otras 17 respuestas correspondieron a «Muy negativamente», mientras que 22 indicaron que no percibían influencia.
+
+En general, los datos simulados muestran una mayor frecuencia de uso de TikTok, una preferencia por el entretenimiento y un predominio del celular. También se observa que la respuesta negativa fue la más frecuente al preguntar por la influencia percibida en la productividad académica.
+
+**Limitación:** estos resultados se obtuvieron a partir de datos simulados con fines educativos. Por lo tanto, no representan una encuesta real y no permiten generalizar conclusiones sobre todos los estudiantes universitarios ni establecer relaciones de causa y efecto.

@@ -92,3 +92,31 @@ A partir del análisis descriptivo de los 100 registros simulados, se identifica
 En general, los datos simulados muestran una mayor frecuencia de uso de TikTok, una preferencia por el entretenimiento y un predominio del celular. También se observa que la respuesta negativa fue la más frecuente al preguntar por la influencia percibida en la productividad académica.
 
 **Limitación:** estos resultados se obtuvieron a partir de datos simulados con fines educativos. Por lo tanto, no representan una encuesta real y no permiten generalizar conclusiones sobre todos los estudiantes universitarios ni establecer relaciones de causa y efecto.
+
+
+## Gráficas del análisis
+
+
+### Plataforma principal de redes sociales
+
+![Plataforma principal de redes sociales](Plataforma%20principal%20de%20redes%20sociales.jpg)
+
+### Tiempo diario dedicado a las redes sociales
+
+![Tiempo diario dedicado a las redes sociales](Tiempo%20diario%20dedicado%20a%20las%20redes%20sociales.png)
+
+### Propósito principal
+
+![Propósito principal](Proposito%20principal.jpg)
+
+### Momento de mayor uso
+
+![Momento de mayor uso](Momento%20de%20mayor%20uso.jpg)
+
+### Dispositivos utilizados
+
+![Dispositivos](Dispositivos.png)
+
+### Influencia en la productividad académica
+
+![Influencia en la productividad académica](Influencia%20en%20la%20productividad%20academica.jpg)
